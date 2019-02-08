@@ -1,5 +1,5 @@
 
-# Privacy Policy
+# Bluesea Privacy Policy
 
 bluesea built the bluesea app as a Free app. This SERVICE is provided by bluesea at no cost and is intended for use as is.
 
